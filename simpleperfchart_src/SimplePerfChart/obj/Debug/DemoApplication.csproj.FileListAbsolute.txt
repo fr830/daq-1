@@ -1,0 +1,10 @@
+D:\marija\daq\simpleperfchart_src\SimplePerfChart\bin\Debug\SimplePerfChart.exe
+D:\marija\daq\simpleperfchart_src\SimplePerfChart\bin\Debug\SimplePerfChart.pdb
+D:\marija\daq\simpleperfchart_src\SimplePerfChart\bin\Debug\SpPerfChart.dll
+D:\marija\daq\simpleperfchart_src\SimplePerfChart\bin\Debug\SpPerfChart.pdb
+D:\marija\daq\simpleperfchart_src\SimplePerfChart\obj\Debug\DemoApplication.csprojResolveAssemblyReference.cache
+D:\marija\daq\simpleperfchart_src\SimplePerfChart\obj\Debug\SimplePerfChart.FrmTestingForm.resources
+D:\marija\daq\simpleperfchart_src\SimplePerfChart\obj\Debug\SimplePerfChart.Properties.Resources.resources
+D:\marija\daq\simpleperfchart_src\SimplePerfChart\obj\Debug\DemoApplication.csproj.GenerateResource.Cache
+D:\marija\daq\simpleperfchart_src\SimplePerfChart\obj\Debug\SimplePerfChart.exe
+D:\marija\daq\simpleperfchart_src\SimplePerfChart\obj\Debug\SimplePerfChart.pdb

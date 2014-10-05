@@ -1,0 +1,11 @@
+grafik
+	dan
+	nedelja
+	mesec
+pracenje
+	real-time
+	sacuvano
+	sacuvati
+	otvoriti
+alarm
+vise senzora
